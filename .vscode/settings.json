@@ -1,5 +1,5 @@
 {
     "python.analysis.extraPaths": [
-        "./week-5"
+        "./week_5"
     ]
 }
